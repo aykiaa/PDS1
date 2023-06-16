@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+// nhghasdfcas
 // semelhante eh proporcional 
 struct Ponto
 {
