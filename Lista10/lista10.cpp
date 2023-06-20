@@ -151,7 +151,7 @@ bool Circunferencia::contem(Triangulo& t)
         {
             return true;
         }
-        else false;
+        else return false;
 }
 
 bool Circunferencia::contem(Retangulo& r)
@@ -260,4 +260,3 @@ int main(){
 
     return (0);
 }
-
